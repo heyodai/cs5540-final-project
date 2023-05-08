@@ -22,7 +22,7 @@
    - c. Data Engineering
    - d. Data Analysis and Modelling
    - e. Data Visualization
-6. Code (Only main modules in report | submit code separately)
+6. Code (main modules only)
 7. Interface Design / Analytical Outcomes
 8. Test Cases
 9. References
@@ -87,7 +87,25 @@ Each of these key components will be further broken down into specific tasks and
 
 ### a. Be-spoke / MDRE
 
+The system requirement specifications for this research project will be developed using a models-driven requirements engineering (MDRE) approach. This approach utilizes models to define the system requirements and allows for the automatic generation of system requirements from these models. The MDRE approach helps ensure that the system requirements are accurate, complete, and consistent.
+
+The MDRE approach involves the development of multiple models, including a domain model, a goal model, a scenario model, and a use case model. These models will be used to define the system requirements, including functional and non-functional requirements, constraints, and assumptions. The MDRE models will be continually refined and updated throughout the research project as new information becomes available.
+
+The MDRE approach will ensure that the system requirements are well-defined and aligned with the project goals and objectives. The models-driven requirements engineering approach will provide a clear and concise representation of the system requirements, which will aid in communication and collaboration between the research team and stakeholders. Additionally, the use of models will enable the automatic generation of system requirements, reducing the potential for errors and inconsistencies.
+
 ### b. Hardware Requirements
+
+The research project was conducted using personal computers owned by the research team members. The hardware requirements for this project are minimal and can be met by most personal computers. The software used in this project is freely available and can be downloaded from the internet.
+
+The minimal hardware requirements for this project include a computer with a modern processor, at least 8GB of RAM, and a solid-state drive (SSD) with at least 100GB of storage. These requirements are sufficient to run the data ingestion optimization process using Parquet with Spark and compare it against the existing CSV configuration.
+
+The research team utilized the following hardware configuration during the project:
+
+- Processor: Intel Core i7 10th Gen
+- RAM: 16 GB
+- Storage: 512 GB SSD
+
+The hardware requirements for this project are easily met by most personal computers, and the research team was able to complete the project using their personal computers. Therefore, no additional hardware was required for this research project.
 
 ## 4. System Design
 
@@ -109,10 +127,10 @@ Each of these key components will be further broken down into specific tasks and
 
 ### e. Data Visualization
 
-## Code (Only main modules in report | submit code separately)
+## 6. Code (main modules only)
 
-## Interface Design / Analytical Outcomes
+## 7. Interface Design / Analytical Outcomes
 
-## Test Cases
+## 8. Test Cases
 
-## References
+## 9. References
